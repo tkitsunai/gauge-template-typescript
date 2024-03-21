@@ -1,3 +1,3 @@
-# Template Typescript
+# Template Gauge + Typescript + Taiko
 
 Typescript template for Gauge.
