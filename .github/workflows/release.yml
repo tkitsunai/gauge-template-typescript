@@ -15,7 +15,7 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       ACTIONS_ALLOW_UNSECURE_COMMANDS: true
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: geertvdc/setup-hub@master
 
       - name: package and releases
